@@ -1,0 +1,29 @@
+{
+  "name": "d3-workshop",
+  "version": "0.0.1",
+  "description": "d3.js workshop",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-bower": "^0.0.10",
+    "gulp-ruby-sass": "^1.0.5",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiwiwin/d3-workshop"
+  },
+  "keywords": [
+    "d3.js"
+  ],
+  "author": "kiwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwiwin/d3-workshop/issues"
+  },
+  "homepage": "https://github.com/kiwiwin/d3-workshop"
+}
