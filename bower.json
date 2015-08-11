@@ -1,0 +1,22 @@
+{
+  "name": "webank",
+  "version": "0.0.1",
+  "authors": [
+    "kiwi <jcwen@thoughtworks.com>"
+  ],
+  "keywords": [
+    "p2p"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5",
+    "d3": "~3.5.6"
+  }
+}
